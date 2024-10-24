@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biswa2005
+- 👋 Hi, I’m Biswarup Biswas
 - 👀 I’m interested in Coding, Technology
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on OpenSource Projects
