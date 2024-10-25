@@ -52,7 +52,7 @@ Here are some of my top projects:
 
 ---
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) Badges 
 <div align="center">
   
 <img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
