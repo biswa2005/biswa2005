@@ -52,7 +52,7 @@ Here are some of my top projects:
 
 ---
 
-##Hacktoberfest Badges
+## Hacktoberfest Badges
 
 [![An image of @biswa2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/biswa2005)](https://holopin.io/@biswa2005)
 
