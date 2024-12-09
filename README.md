@@ -39,7 +39,7 @@ Here are some of my top projects:
 
 ## 🌐 Find Me Around the Web
 
-- **LinkedIn**: [biswarup-biswas-625463319](www.linkedin.com/biswarup-biswas-625463319)
+- **LinkedIn**: [@biswarup-biswas-625463319](www.linkedin.com/in/biswarup-biswas-625463319)
 - **Twitter**: [@BiswasBisw19572](https://twitter.com/BiswasBisw19572)
 - **GitHub**: [@biswa2005](https://github.com/biswa2005)
 
