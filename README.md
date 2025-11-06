@@ -26,7 +26,7 @@
 
 Here are some of my top projects:
 
-[![Project Name](https://img.shields.io/badge/Project-Open%20Source%20Tool-orange)](https://github.com/biswa2005/project-name)
+[![Lung-Cancer-Prediction](https://img.shields.io/badge/Project-Open%20Source%20Tool-orange)]([https://github.com/biswa2005/](https://github.com/biswa2005/Lung-Cancer-Prediction))
 > A brief description of what this project does and the technologies used.
 
 [![Another Project](https://img.shields.io/badge/Project-Web%20Scraper-brightgreen)](https://github.com/biswa2005/another-project)
