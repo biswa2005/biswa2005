@@ -8,7 +8,7 @@
 
 🎓 I'm a passionate software developer and open-source contributor, currently contributing at **GirlScript Summer of Code 2024**.
 
-🚀 I love coding, collaborating, and contributing to meaningful projects. I'm constantly exploring new technologies and strengthening my skills in **Web Development**, **Backend Technologies**, and **Machine Learning**.
+🚀 I love coding, collaborating, and contributing to meaningful projects. I'm constantly exploring new technologies and strengthening my skills in **Web Development**, **Backend Technologies**, and [...]
 
 ---
 
@@ -26,7 +26,16 @@
 
 Here are some of my top projects:
 
-[![Lung-Cancer-Prediction](https://img.shields.io/badge/Project-Open%20Source%20Tool-orange)]([https://github.com/biswa2005/](https://github.com/biswa2005/Lung-Cancer-Prediction))
+[![Food Delivery App](https://img.shields.io/badge/Project-Food%20Delivery%20App-orange)](https://github.com/biswa2005/food-delivery-app)
+> A full-stack food delivery application with restaurant listings, cart, and order management. Built with React, Node.js, Express, and MongoDB.
+
+[![Chat App](https://img.shields.io/badge/Project-Chat%20App-brightgreen)](https://github.com/biswa2005/chat-app)
+> A real-time chat application using WebSockets (Socket.IO) with support for rooms, private messaging, and presence indicators.
+
+[![DeFi App](https://img.shields.io/badge/Project-DeFi%20App-blueviolet)](https://github.com/biswa2005/defi-app)
+> A decentralized finance (DeFi) dashboard demonstrating wallet integration, token swaps, and smart contract interactions (Solidity + Web3/Ethers.js).
+
+[![Lung-Cancer-Prediction](https://img.shields.io/badge/Project-Open%20Source%20Tool-orange)](https://github.com/biswa2005/Lung-Cancer-Prediction)
 > A brief description of what this project does and the technologies used.
 
 [![Another Project](https://img.shields.io/badge/Project-Web%20Scraper-brightgreen)](https://github.com/biswa2005/another-project)
