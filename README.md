@@ -38,12 +38,6 @@ Here are some of my top projects:
 [![Lung-Cancer-Prediction](https://img.shields.io/badge/Project-Open%20Source%20Tool-orange)](https://github.com/biswa2005/Lung-Cancer-Prediction)
 > A brief description of what this project does and the technologies used.
 
-[![Another Project](https://img.shields.io/badge/Project-Web%20Scraper-brightgreen)](https://github.com/biswa2005/another-project)
-> Brief description and tech stack used.
-
-[![JARVIS](https://img.shields.io/badge/Project-Jarvis%20AI-Model-blueviolet)](https://github.com/biswa2005/cool-app)
-> Brief description and tech stack used.
-
 ---
 
 ## 🌐 Find Me Around the Web
