@@ -33,7 +33,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href="https://lnkd.in/p/dyyBV64N">Hacksphere 2026 1st Runners up</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://x.com/biswarup10183" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
