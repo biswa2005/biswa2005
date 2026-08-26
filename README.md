@@ -1,80 +1,44 @@
-# Hi there, I'm Biswarup 👋
-
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
-![GitHub followers](https://img.shields.io/github/followers/biswa2005?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/biswa2005?style=social)
-
----
-
-🎓 I'm a passionate software developer and open-source contributor, currently contributing at **GirlScript Summer of Code 2024**.
-
-🚀 I love coding, collaborating, and contributing to meaningful projects. I'm constantly exploring new technologies and strengthening my skills in **Web Development**, **Backend Technologies**, and [...]
-
----
-
-## 🔧 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Express-green)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-blue)
-
----
-
-## 🌟 Featured Projects
-
-Here are some of my top projects:
-
-[![Food Delivery App](https://img.shields.io/badge/Project-Food%20Delivery%20App-orange)](https://github.com/biswa2005/food-delivery-app)
-> A full-stack food delivery application with restaurant listings, cart, and order management. Built with React, Node.js, Express, and MongoDB.
-
-[![Chat App](https://img.shields.io/badge/Project-Chat%20App-brightgreen)](https://github.com/biswa2005/chat-app)
-> A real-time chat application using WebSockets (Socket.IO) with support for rooms, private messaging, and presence indicators.
-
-[![DeFi App](https://img.shields.io/badge/Project-DeFi%20App-blueviolet)](https://github.com/biswa2005/defi-app)
-> A decentralized finance (DeFi) dashboard demonstrating wallet integration, token swaps, and smart contract interactions (Solidity + Web3/Ethers.js).
-
-[![Lung-Cancer-Prediction](https://img.shields.io/badge/Project-Open%20Source%20Tool-orange)](https://github.com/biswa2005/Lung-Cancer-Prediction)
-> A brief description of what this project does and the technologies used.
-
----
-
-## 🌐 Find Me Around the Web
-
-- **LinkedIn**: [@biswarup-biswas-625463319](www.linkedin.com/in/biswarup-biswas-625463319)
-- **Twitter**: [@BiswasBisw19572](https://x.com/biswarup10183)
-- **GitHub**: [@biswa2005](https://github.com/biswa2005)
-
----
-
-## 📈 GitHub Stats
-
-![Biswarup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biswa2005&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biswa2005&layout=compact&theme=tokyonight)
-
----
-
-## Hacktoberfest Badges
-
-[![An image of @biswa2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/biswa2005)](https://holopin.io/@biswa2005)
-
----
-
-## GSSOC(24) Badges 
-<div align="center">
-  
-<img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/1.png" width="100px" height="100px" />
-<img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/2.png" width="100px" height="100px" />
-<img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/3.png" width="100px" height="100px" />
-<img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/4.png" width="100px" height="100px" />
-<img src="https://github.com/GSSoC24/Postman-Challenge/blob/main/docs/assets/5.png" width="100px" height="100px" />
-
-
-</div>
-
-
-
-
-✨ **Let's Connect!** ✨
+<h1>Hi 👋, I'm Biswarup Biswas</h1>
+<p>A passionate Full Stack developer from Kolkata, West Bengal, India</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
+<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="https://lnkd.in/p/dyyBV64N">Hacksphere 2026 1st Runners up</a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://x.com/biswarup10183" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/biswarup-biswas-625463319" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=biswa2005&show_icons=true&locale=en" alt="biswa2005" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswa2005&" alt="biswa2005" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=biswa2005&show_icons=true&locale=en&layout=compact" alt="biswa2005" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswa2005" alt="biswa2005" /></a></p>
